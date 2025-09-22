@@ -1,0 +1,3 @@
+[submodule "tech-writing-samples"]
+	path = tech-writing-samples
+	url = https://github.com/kanvik2004-ux/tech-writing-samples
